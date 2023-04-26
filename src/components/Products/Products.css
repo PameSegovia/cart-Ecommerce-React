@@ -1,0 +1,38 @@
+.grid-container {
+  padding: 5px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Crea 5 columnas con ancho igual */
+  gap: 30px; /* Espacio entre cada item */
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000;
+  border-radius: 3px;
+  width: 100%;
+  text-align: center;
+  font-size: 14px; /* Alinea el contenido al centro */
+
+}
+.grid-item img{
+  width: 100%;
+  height: 350px; /* Establece una altura fija para todos los items */
+  object-fit: cover;
+  border-radius: 2px #000 5px;
+}
+.cardButton {
+  border: none;
+  outline: 0;
+  padding: 10px;
+  color: white;
+  background-color: #1bcb7f;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 15px;
+}
+.cardButton:hover {
+  opacity: 0.7;
+}
+

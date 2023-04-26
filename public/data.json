@@ -1,0 +1,96 @@
+[
+  { 
+    "id": 4,
+    "name": "Aloe Vera",
+    "price": 3000,
+    "img": "data:image/jpeg;base64,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",
+    "quanty": 1 
+  },
+  {
+    "id": 2,
+    "name": "Crassula Ovata",
+    "price": 3000,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_913562-MCO48310231615_112021-O.webp",
+    "quanty": 1
+  },
+  {
+    "id": 11,
+    "name": "Sedum Morganianum",
+    "price": 4500,
+    "img": "https://falabella.scene7.com/is/image/Falabella/gsc_113209628_574512_1?wid=1500&hei=1500&qlt=70",
+    "quanty": 1
+  },
+  {
+    "id": 1, 
+    "name": "Suculenta Haworthia", 
+    "price": 2500, 
+    "img": "https://falabella.scene7.com/is/image/Falabella/770451114_1?wid=480&hei=480&qlt=70&fmt=webp",
+    "quanty" : 1 
+    
+  },
+  {
+     "id": 5,
+     "name": "Sempervivum 'Green Wheel",
+     "price": 3000,
+     "img": "https://falabella.scene7.com/is/image/Falabella/gsc_119127213_2247036_1?wid=1500&hei=1500&qlt=70",
+     "quanty": 1
+  },
+  {
+     "id": 6,
+     "name": "Sedum Morganianum",
+     "price": 5000,
+     "img": "https://lasplantassuculentas.com/wp-content/uploads/2019/11/sd3.jpg",
+     "quanty": 1
+  },
+  {
+     "id": 7,
+     "name": "Kalanchoe Tomentosa",
+     "price": 4000,
+     "img": "https://sodimac.scene7.com/is/image/SodimacCL/8891109_01?wid=1500&hei=1500&qlt=70",
+     "quanty": 1
+  },
+  {
+    "id": 8,
+    "name": "Graptopetalum Paraguayense",
+    "price": 2500,
+    "img": "https://sodimac.scene7.com/is/image/SodimacCL/7312059_01?wid=1500&hei=1500&qlt=70",
+    "quanty": 1
+  },
+  {
+    "id": 9,
+    "name": "Haworthia Attenuata",
+    "price": 4500,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_632355-MLC54936108585_042023-F.webp",
+    "quanty": 1
+  },
+  {
+    "id": 10,
+    "name": "Crassula Tetragona",
+    "price": 5000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmETCXMEfp7XHr9_H1wDAvaob9Gg47383wCSURFs4UDg3VOOCQ_RPPjJRYtBA6k-mpoqE&usqp=CAU",
+    "quanty": 1
+  },
+  {
+     "id": 3,
+    "name": "Echeveria 'Perle von Nürnberg",
+    "price": 3500,
+    "img": "https://plantket.cl/plantket-cl/393-large_default/echeveria-rainbow.jpg",
+    "quanty": 1
+    
+    },
+    {
+      "id": 12,
+      "name": "Euphorbia Tirucalli",
+      "price": 5000,
+      "img": "https://m.media-amazon.com/images/I/71wecgyDF4L.jpg",
+      "quanty": 1
+      }
+
+   
+
+        
+        
+
+  
+
+]
