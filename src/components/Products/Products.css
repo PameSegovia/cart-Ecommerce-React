@@ -36,3 +36,37 @@
   opacity: 0.7;
 }
 
+
+
+
+@media screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr); /* cambia a 2 columnas */
+    gap: 20px; /* reduce el espacio entre items */
+  }
+
+  .grid-item {
+    width: 95%; /* aumenta el ancho de los items */
+    font-size: 12px; /* reduce el tamaño de la fuente */
+  }
+
+  .cardButton {
+    font-size: 13px; /* reduce el tamaño de la fuente */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .grid-container {
+    grid-template-columns: 1fr; /* cambia a una columna */
+    gap: 10px; /* reduce el espacio entre items */
+  }
+
+  .grid-item {
+    width: 100%; /* aumenta el ancho de los items */
+    font-size: 11px; /* reduce el tamaño de la fuente */
+  }
+
+  .cardButton {
+    font-size: 12px; /* reduce el tamaño de la fuente */
+  }
+}
