@@ -10,14 +10,14 @@
   flex-direction: column;
   border: 1px solid #000;
   border-radius: 3px;
-  width: 100%;
+  width: 90%;
   text-align: center;
   font-size: 14px; /* Alinea el contenido al centro */
 
 }
 .grid-item img{
   width: 100%;
-  height: 350px; /* Establece una altura fija para todos los items */
+  height: 300px; /* Establece una altura fija para todos los items */
   object-fit: cover;
   border-radius: 2px #000 5px;
 }
