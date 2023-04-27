@@ -1,6 +1,5 @@
 import { useContext } from "react";
 import { dataContext } from "../Context/DataContext";
-import CartContent from "./CartContent.css";
 import CartItemCounter from "./CartItemCounter";
 
 

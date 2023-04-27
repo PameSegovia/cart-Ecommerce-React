@@ -3,7 +3,6 @@ import { useContext } from "react"
 import { dataContext } from "../Context/DataContext"
 import TotalItems from "../CartContent/TotalItems";
 import "./NavBar.css";
-import CartTotal from "../CartContent/CartTotal";
 
 
 const NavBar = () => {
